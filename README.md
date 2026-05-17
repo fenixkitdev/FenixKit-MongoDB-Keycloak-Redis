@@ -271,6 +271,6 @@ Already own the base kit? See `MIGRATION.md` — step-by-step instructions for a
 
 ## License
 
-FenixKit Auth is a commercial product. Each purchase grants a lifetime licence for unlimited personal and commercial projects.
+FenixKit MongoDB + Keycloak + Redis is a commercial product. Each purchase grants a lifetime licence for unlimited personal and commercial projects.
 
 👉 **[fenixkit.dev](https://fenixkit.dev)**
