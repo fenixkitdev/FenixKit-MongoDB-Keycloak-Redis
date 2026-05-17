@@ -254,6 +254,7 @@ All errors — including auth errors — follow [RFC 7807](https://www.rfc-edito
 | Keycloak 24 | OIDC / OAuth2 identity provider |
 | Microsoft.AspNetCore.Authentication.JwtBearer | JWT Bearer validation |
 | MongoDB.Driver | Official MongoDB .NET driver |
+| Redis 8 / Valkey 7.2+ | Cache server — compatible with both (`docker-compose.valkey.yml` included) |
 | StackExchange.Redis | Redis client — tag-based cache-aside layer |
 | ErrorOr v2 | Result pattern — no exceptions for domain errors |
 | Swashbuckle.AspNetCore | Swagger UI + OAuth2 PKCE flow |
