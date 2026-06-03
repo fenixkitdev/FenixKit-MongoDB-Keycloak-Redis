@@ -1,22 +1,19 @@
-# FenixKit — .NET Minimal API  MongoDB + Keycloak + Redis
+﻿# FLICK by FenixKit — Fast · Latency · Instant · Cache · Kit
 
 <p align="center">
-  <a href="https://fenixkit.dev">
-    <img src="images/logo-mongo-keycloak-redis.png" alt="FenixKit" width="300" />
+  <a href="https://fenixkit.dev/kits/flick/">
+    <img src="https://fenixkit.dev/assets/kits/banners/flick.png" alt="FLICK by FenixKit" width="100%" />
   </a>
 </p>
+<p align="center">
+  <img src="https://fenixkit.dev/assets/kits/logos/flick.png" alt="FLICK" width="200" />
+</p>
 <h3 align="center">
-  Get it here: <a href="https://fenixkit.dev">fenixkit.dev</a>
+  <a href="https://fenixkit.dev/kits/flick/">fenixkit.dev/kits/flick/</a>
 </h3>
 
-> **Ship faster. Build smarter.**  
-> A production-ready .NET Minimal API starter with Keycloak JWT authentication, Redis cache-aside, MongoDB, and zero manual setup.
-
-Keycloak JWT auth is the hardest part to get right in a new .NET API. Wrong token validation, missing role checks, broken Swagger login flows, no health check on the auth server — all fixable, all time-consuming. FenixKit ships with all of it wired up from day one, plus a full tag-based Redis cache layer that degrades gracefully when Redis is unavailable.
-
-> **Keycloak and Redis run out of the box.** A pre-built realm with two test users is imported automatically when the Docker stack starts. No Keycloak or Redis setup required.
-
----
+> **FLICK — Fast · Latency · Instant · Cache · Kit**
+> A MongoDB + Keycloak JWT + Redis cache-aside .NET Minimal API template — auth, cache, and persistence fully aligned in one pre-configured project.
 
 ## What's Inside
 
@@ -274,3 +271,5 @@ Already own the base kit? See `MIGRATION.md` — step-by-step instructions for a
 FenixKit MongoDB + Keycloak + Redis is a commercial product. Each purchase grants a lifetime licence for unlimited personal and commercial projects.
 
 👉 **[fenixkit.dev](https://fenixkit.dev)**
+
+
